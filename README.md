@@ -1,5 +1,4 @@
 # Detecting-Forest-Fires-Using-Aerial-Imagery
-Final Project: Machine Learning for Remote Sensing
 
 The goal of this project is to classify aerial imagery of forests based on if they depict a fire or not using machine learning and deep learning. 
 The data comes from “The FLAME Dataset: Aerial Imagery Pile Burn Detection Using Drones (UAVS)” from the IEEE Data portal.
